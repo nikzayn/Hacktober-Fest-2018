@@ -35,7 +35,7 @@ Star this repository
 ![screenshot from 2018-10-07 20-19-37](https://user-images.githubusercontent.com/23727056/46583188-5bcb5400-ca70-11e8-944e-15acfe5f5630.png)
 
 ## Step 5 
-Fork this repository on your profile
+Fork this repository on your own profile
 
 ![screenshot from 2018-10-07 20-19-37](https://user-images.githubusercontent.com/23727056/46583188-5bcb5400-ca70-11e8-944e-15acfe5f5630.png)
 
